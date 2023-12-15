@@ -1,5 +1,5 @@
 # Tech-Giants
-Stock Analysis Tool for AMZN and GOOG\
+Stock Analysis Tool for AMZN and GOOG  
 <h6>Project by Jonas Low & Qin Haichen</h6>
 
 ## Inspiration
